@@ -8,6 +8,9 @@ public class CinemaLabApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CinemaLabApplication.class, args);
+
+
+
     }
 
 }
